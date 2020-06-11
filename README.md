@@ -13,4 +13,3 @@ A collection of notebooks for researching oscn.net
 `jupyter notebook`
 
 Notebooks are available at http://localhost:8888
-Notebooks are available at http://localhost:8888
